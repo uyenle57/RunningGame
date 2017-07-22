@@ -1,7 +1,7 @@
 # Running Game
 4 December 2015
 
-![alt text](https://github.com/uyenle57/AV-Computing/raw/master/bin/data/screenshot1.png "Running-Game-Screenshot")
+![alt text](https://github.com/uyenle57/RunningGame/raw/master/bin/data/screenshot1.png "Running-Game-Screenshot")
 
 ### About:
 - A running game where users have to move between 3 lanes to dodge from obstacles and collect as much coins as possible.
@@ -19,6 +19,7 @@
 ### Running the game:
 #### Requirements:
 [Xcode](https://itunes.apple.com/us/app/xcode/id497799835?mt=12) >= 8.3
+
 [openFrameworks](http://openframeworks.cc/download/) >= 0.8.4
 
 #### Controls:
@@ -27,4 +28,5 @@
 
 -----------
 C++ Project
+
 Goldsmiths, University of London
